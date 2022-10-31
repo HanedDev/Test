@@ -1,0 +1,19 @@
+.navbar {
+  background-color: aqua;
+}
+#progression > div {
+  outline: 0 !important;
+}
+.progress {
+  background-color: #ccc !important;
+}
+.carousel-inner,
+.carousel-item {
+  height: 500px;
+}
+
+img{
+  position: static;
+ 
+  /* object-position: center; // or 50% 50%  */
+}
